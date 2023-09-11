@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>ykk-backend</module>
-        <module>ykk-common</module>
+        <module>hf-backend</module>
+        <module>hf-common</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -13,10 +13,10 @@
         <version>2.3.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.yikekong</groupId>
-    <artifactId>project-yikekong-java</artifactId>
+    <groupId>com.huifeng</groupId>
+    <artifactId>project-huifeng-java</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>project-yikekong-java</name>
+    <name>project-huifeng-java</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
